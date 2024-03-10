@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Page](README.md)
-* [💴 Currency Exchange System (KBB)](currency-exchange-system-kbb.md)
+* [💴 KBB Currency Exchange System](kbb-currency-exchange-system.md)
