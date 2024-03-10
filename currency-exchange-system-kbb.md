@@ -56,6 +56,32 @@ A banking system will be in use to deposit and store your currency. In game phys
 
 <details>
 
+<summary><strong>Regulatory Details</strong></summary>
+
+#### Central Bank Oversight
+
+Barrenwood will be a central authority responsible for overseeing the entire currency system. Additionally, all countries will have full access to currency transaction records and can report any suspected foul play of a country. Complaints will be taken seriously and will result in an unbiased investigation conducted by the Koflum Data Bureau and potential members of the jury to determine the party at fault. Conviction outcomes can be levied by currency/product/land confiscation or fines determined at ruling.&#x20;
+
+#### Licensing Requirements
+
+All countries wishing to utilize the KBB Currency Exchange System will be required to obtain a license for trade, in addition to electing a public official for representation of said countries transactions, record keeping, and production.
+
+#### Anti-Money Laundering Regulations
+
+Money laundering will be strictly prohibited and any convictions may result to serious disciplinary action to be determined upon conviction of infractions.&#x20;
+
+#### Centralized Transaction Monitoring
+
+Each country will be responsible for transaction monitoring of fellow countries. Any suspected suspicious transactions must be reported, and a unbiased investigation will be required.&#x20;
+
+#### Regulatory Reporting
+
+Countries will regularly report financial data and activities to the central bank for supervision and analysis. This helps detect trends, identify risks, and ensure compliance with regulations.
+
+</details>
+
+<details>
+
 <summary>Participating Countries</summary>
 
 * Barrenwood
@@ -101,32 +127,6 @@ To access the currency, follow these commands:&#x20;
 ```
 /bank
 ```
-
-<details>
-
-<summary><strong>Regulatory Details</strong></summary>
-
-#### Central Bank Oversight
-
-Barrenwood will be a central authority responsible for overseeing the entire currency system. Additionally, all countries will have full access to currency transaction records and can report any suspected foul play of a country. Complaints will be taken seriously and will result in an unbiased investigation conducted by the Koflum Data Bureau and potential members of the jury to determine the party at fault. Conviction outcomes can be levied by currency/product/land confiscation or fines determined at ruling.&#x20;
-
-#### Licensing Requirements
-
-All countries wishing to utilize the KBB Currency Exchange System will be required to obtain a license for trade, in addition to electing a public official for representation of said countries transactions, record keeping, and production.
-
-#### Anti-Money Laundering Regulations
-
-Money laundering will be strictly prohibited and any convictions may result to serious disciplinary action to be determined upon conviction of infractions.&#x20;
-
-#### Centralized Transaction Monitoring
-
-Each country will be responsible for transaction monitoring of fellow countries. Any suspected suspicious transactions must be reported, and a unbiased investigation will be required.&#x20;
-
-#### Regulatory Reporting
-
-Countries will regularly report financial data and activities to the central bank for supervision and analysis. This helps detect trends, identify risks, and ensure compliance with regulations.
-
-</details>
 
 [^1]: Equivalent to **9** Gold Nugget
 
