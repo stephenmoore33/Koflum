@@ -96,6 +96,14 @@ A banking system will be in use to deposit and store your currency. In game phys
 
 >
 
+## Accessing Currency
+
+To access the currency, follow these commands:&#x20;
+
+```
+/bank
+```
+
 [^1]: Equivalent to **9** Gold Nugget
 
 [^2]: Equivalent to **9** Lapis Lazuli
