@@ -52,6 +52,10 @@ Currency will be displayed as [<mark style="color:green;">$2,000,000 KBB</mark>]
 **KBB** stands for **Koflum Bureau Bucks**
 {% endhint %}
 
+{% hint style="warning" %}
+Due to pocket size restrictions, the maximum currency that can be stored in your pocket is [**$2,073,600 KBB**](#user-content-fn-7)[^7].
+{% endhint %}
+
 ### Banking System
 
 A banking system will be in use to deposit and store your currency. In game physical currency can be deposited or withdrawn. Advantages of storing currency in the bank will protect your assets from theft, allow for easier trade/exchange, allow for earning of interest, ability to take out loans, and buy/sell products. In addition, utilizing the banking system will allow for transparency between fellow counties and could quickly identify foul play.&#x20;
@@ -113,3 +117,5 @@ To make a deposit/withdraw, follow these commands:
 [^5]: Equivalent to **9** Diamond
 
 [^6]: Example
+
+[^7]: Calulcation: `slots available (36) x items per slot (64) x value ($57,600)`
