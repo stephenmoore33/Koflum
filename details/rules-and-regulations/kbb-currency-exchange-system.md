@@ -94,7 +94,15 @@ Countries will regularly report financial data and activities to the central ban
 
 <summary>Trading/Buying/Selling</summary>
 
+### Accessing Currency
 
+Currency can be stored in the Koflum National Bank or in physical currency as listed above. At any time, players can deposit or withdraw currency from their bank accounts.&#x20;
+
+To make a deposit/withdraw, follow these commands:
+
+```
+/shop
+```
 
 </details>
 
@@ -129,14 +137,6 @@ Countries will regularly report financial data and activities to the central ban
 
 
 </details>
-
-### Accessing Currency
-
-To access the currency, follow these commands:&#x20;
-
-```
-/bank
-```
 
 [^1]: Equivalent to **9** Gold Nugget
 
