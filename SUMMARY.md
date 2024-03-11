@@ -9,3 +9,4 @@
 ## 🔌 Plugins
 
 * [🛍️ EconomyShopGUI](plugins/economyshopgui.md)
+* [🔓 CoreProtect](plugins/coreprotect.md)
