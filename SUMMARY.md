@@ -16,6 +16,7 @@
   * [🏝️ Land Claiming/Ownership Policy](details/rules-and-regulations/land-claiming-ownership-policy.md)
   * [🤝 Trade Policy](details/rules-and-regulations/trade-policy.md)
   * [🏴 Agreements and Partnerships Policy](details/rules-and-regulations/agreements-and-partnerships-policy.md)
+  * [🎭 Enacting Rule Change Policy](details/rules-and-regulations/enacting-rule-change-policy.md)
 * [👮 Rule Breaking Policy](details/rule-breaking-policy.md)
 * [🔌 Plugins](details/plugins/README.md)
   * [💬 DiscordSRV](details/plugins/discordsrv.md)
