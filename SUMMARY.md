@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🗺️ Home](README.md)
+* [🌐 Home](README.md)
   * [🔑 Accessing the Server](home/accessing-the-server.md)
   * [📚 History of Koflum](home/history-of-koflum.md)
   * [📢 Use of Discord](home/use-of-discord.md)
@@ -24,6 +24,9 @@
   * [🍀 LuckPerms](details/plugins/luckperms.md)
   * [🔒 Vault](details/plugins/vault.md)
   * [🧩 CoreProtect](details/plugins/coreprotect.md)
+  * [🗺️ DynMap](details/plugins/dynmap.md)
+  * [👍 Essentials](details/plugins/essentials.md)
+  * [💿 ViaVersion](details/plugins/viaversion.md)
 
 ## 👥 Countries and Members
 
