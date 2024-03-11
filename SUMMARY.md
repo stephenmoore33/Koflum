@@ -15,6 +15,8 @@
   * [🏝️ Land Claiming/Ownership Policy](details/rules-and-regulations/land-claiming-ownership-policy.md)
   * [🤝 Trade Policy](details/rules-and-regulations/trade-policy.md)
   * [📝 Joining KDB Board](details/rules-and-regulations/joining-kdb-board.md)
+  * [🏴 Agreements and Partnerships Policy](details/rules-and-regulations/agreements-and-partnerships-policy.md)
+* [👮 Rule Breaking Policy](details/rule-breaking-policy.md)
 * [🔌 Plugins](details/plugins/README.md)
   * [💬 DiscordSRV](details/plugins/discordsrv.md)
   * [🛍️ EconomyShopGUI](details/plugins/economyshopgui.md)
