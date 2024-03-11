@@ -9,8 +9,8 @@
 
 ## 🔌 Plugins
 
-* [🧩 CoreProtect](plugins/coreprotect.md)
 * [💬 DiscordSRV](plugins/discordsrv.md)
 * [🛍️ EconomyShopGUI](plugins/economyshopgui.md)
 * [🍀 LuckPerms](plugins/luckperms.md)
 * [🔒 Vault](plugins/vault.md)
+* [🧩 CoreProtect](plugins/coreprotect.md)
