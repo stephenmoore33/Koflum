@@ -7,9 +7,9 @@ description: >-
 
 # 🔓 CoreProtect
 
-#### [Plugin Page](https://www.spigotmc.org/resources/coreprotect.8631/)
+[Plugin Page](https://www.spigotmc.org/resources/coreprotect.8631/)
 
-#### [Documentation](https://docs.coreprotect.net/)
+[Documentation](https://docs.coreprotect.net/)
 
 ### View Block Audit
 
