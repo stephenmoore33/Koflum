@@ -6,39 +6,39 @@ Below are the physical currency rates and values. These do not change, but the c
 
 <div>
 
-<figure><img src="../.gitbook/assets/gold_nugget.png" alt=""><figcaption><p>Gold Nugget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gold_nugget.png" alt=""><figcaption><p>Gold Nugget</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/lapis_lazuli.png" alt=""><figcaption><p>Lapis Lazuli</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lapis_lazuli.png" alt=""><figcaption><p>Lapis Lazuli</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/gold_ingot.png" alt=""><figcaption><p>Gold Ingot</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gold_ingot.png" alt=""><figcaption><p>Gold Ingot</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/emerald.png" alt=""><figcaption><p>Emerald</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/emerald.png" alt=""><figcaption><p>Emerald</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/diamond.png" alt=""><figcaption><p>Diamond</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/diamond.png" alt=""><figcaption><p>Diamond</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/lapis_block.png" alt=""><figcaption><p>Lapis Block</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lapis_block.png" alt=""><figcaption><p>Lapis Block</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/gold_block.png" alt=""><figcaption><p>Gold Block</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gold_block.png" alt=""><figcaption><p>Gold Block</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/emerald_block.png" alt=""><figcaption><p>Emerald Block</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/emerald_block.png" alt=""><figcaption><p>Emerald Block</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/diamond_block.png" alt=""><figcaption><p>Diamond Block</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/diamond_block.png" alt=""><figcaption><p>Diamond Block</p></figcaption></figure>
 
 </div>
 

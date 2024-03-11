@@ -1,23 +1,22 @@
 # Table of contents
 
-* [🗺️ Welcome to the Koflum Wiki](README.md)
-  * [🔑 Accessing the Server](welcome-to-the-koflum-wiki/accessing-the-server.md)
-  * [📚 History of Koflum](welcome-to-the-koflum-wiki/history-of-koflum.md)
+* [🗺️ Home](README.md)
+  * [🔑 Accessing the Server](home/accessing-the-server.md)
+  * [📚 History of Koflum](home/history-of-koflum.md)
 
-## 📜 Rules and Regulations
+## ℹ️ Details
 
-* [💴 KBB Currency Exchange System](rules-and-regulations/kbb-currency-exchange-system.md)
-* [✔️ Right to Vote Policy](rules-and-regulations/right-to-vote-policy.md)
-* [🏝️ Land Claiming Policy](rules-and-regulations/land-claiming-policy.md)
-* [🤝 Trading Policy](rules-and-regulations/trading-policy.md)
-
-## 🔌 Plugins
-
-* [💬 DiscordSRV](plugins/discordsrv.md)
-* [🛍️ EconomyShopGUI](plugins/economyshopgui.md)
-* [🍀 LuckPerms](plugins/luckperms.md)
-* [🔒 Vault](plugins/vault.md)
-* [🧩 CoreProtect](plugins/coreprotect.md)
+* [📜 Rules and Regulations](details/rules-and-regulations/README.md)
+  * [💴 KBB Currency Exchange System](details/rules-and-regulations/kbb-currency-exchange-system.md)
+  * [✔️ Right to Vote Policy](details/rules-and-regulations/right-to-vote-policy.md)
+  * [🏝️ Land Claiming Policy](details/rules-and-regulations/land-claiming-policy.md)
+  * [🤝 Trading Policy](details/rules-and-regulations/trading-policy.md)
+* [🔌 Plugins](details/plugins/README.md)
+  * [💬 DiscordSRV](details/plugins/discordsrv.md)
+  * [🛍️ EconomyShopGUI](details/plugins/economyshopgui.md)
+  * [🍀 LuckPerms](details/plugins/luckperms.md)
+  * [🔒 Vault](details/plugins/vault.md)
+  * [🧩 CoreProtect](details/plugins/coreprotect.md)
 
 ## 👥 Countries and Members
 
