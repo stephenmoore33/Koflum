@@ -3,14 +3,18 @@
 * [🗺️ Home](README.md)
   * [🔑 Accessing the Server](home/accessing-the-server.md)
   * [📚 History of Koflum](home/history-of-koflum.md)
+  * [📢 Use of Discord](home/use-of-discord.md)
 
 ## ℹ️ Details
 
 * [📜 Rules and Regulations](details/rules-and-regulations/README.md)
+  * [🏛️ Right to Civil Proceedings Policy](details/rules-and-regulations/right-to-civil-proceedings-policy.md)
+  * [💣 Declaration of Policy](details/rules-and-regulations/declaration-of-policy.md)
   * [💴 KBB Currency Exchange System](details/rules-and-regulations/kbb-currency-exchange-system.md)
   * [✔️ Right to Vote Policy](details/rules-and-regulations/right-to-vote-policy.md)
-  * [🏝️ Land Claiming Policy](details/rules-and-regulations/land-claiming-policy.md)
-  * [🤝 Trading Policy](details/rules-and-regulations/trading-policy.md)
+  * [🏝️ Land Claiming/Ownership Policy](details/rules-and-regulations/land-claiming-ownership-policy.md)
+  * [🤝 Trade Policy](details/rules-and-regulations/trade-policy.md)
+  * [📝 Joining KDB Board](details/rules-and-regulations/joining-kdb-board.md)
 * [🔌 Plugins](details/plugins/README.md)
   * [💬 DiscordSRV](details/plugins/discordsrv.md)
   * [🛍️ EconomyShopGUI](details/plugins/economyshopgui.md)
