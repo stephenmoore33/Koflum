@@ -5,7 +5,7 @@ description: >-
   can be viewed by any user.
 ---
 
-# 🔓 CoreProtect
+# 🧩 CoreProtect
 
 [Plugin Page](https://www.spigotmc.org/resources/coreprotect.8631/)
 
