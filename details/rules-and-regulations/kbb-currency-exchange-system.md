@@ -118,4 +118,4 @@ To make a deposit/withdraw, follow these commands:
 
 [^6]: Example
 
-[^7]: Calulcation: `slots available (36) x items per slot (64) x value ($57,600)`
+[^7]: Calculation: `slots available (36) x items per slot (64) x value ($57,600) = $2,073,600`
