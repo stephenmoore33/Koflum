@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [🗺️ Welcome to the Koflum Wiki](README.md)
 
 ## 📜 Rules and Regulations
 
