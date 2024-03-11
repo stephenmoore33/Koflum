@@ -7,14 +7,14 @@
 
 ## ℹ️ Details
 
+* [📝 Joining KDB Board](details/joining-kdb-board.md)
 * [📜 Rules and Regulations](details/rules-and-regulations/README.md)
   * [🏛️ Right to Civil Proceedings Policy](details/rules-and-regulations/right-to-civil-proceedings-policy.md)
-  * [💣 Declaration of Policy](details/rules-and-regulations/declaration-of-policy.md)
+  * [💣 Declaration of War Policy](details/rules-and-regulations/declaration-of-war-policy.md)
   * [💴 KBB Currency Exchange System](details/rules-and-regulations/kbb-currency-exchange-system.md)
   * [✔️ Right to Vote Policy](details/rules-and-regulations/right-to-vote-policy.md)
   * [🏝️ Land Claiming/Ownership Policy](details/rules-and-regulations/land-claiming-ownership-policy.md)
   * [🤝 Trade Policy](details/rules-and-regulations/trade-policy.md)
-  * [📝 Joining KDB Board](details/rules-and-regulations/joining-kdb-board.md)
   * [🏴 Agreements and Partnerships Policy](details/rules-and-regulations/agreements-and-partnerships-policy.md)
 * [👮 Rule Breaking Policy](details/rule-breaking-policy.md)
 * [🔌 Plugins](details/plugins/README.md)
