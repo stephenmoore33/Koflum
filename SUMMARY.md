@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🗺️ Welcome to the Koflum Wiki](README.md)
+* [🔑 Accessing the Server](accessing-the-server.md)
 
 ## 📜 Rules and Regulations
 
@@ -8,5 +9,7 @@
 
 ## 🔌 Plugins
 
-* [🛍️ EconomyShopGUI](plugins/economyshopgui.md)
 * [🔓 CoreProtect](plugins/coreprotect.md)
+* [🛍️ EconomyShopGUI](plugins/economyshopgui.md)
+* [🍀 LuckPerms](plugins/luckperms.md)
+* [💬 DiscordSRV](plugins/discordsrv.md)
