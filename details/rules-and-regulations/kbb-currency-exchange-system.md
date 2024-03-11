@@ -60,11 +60,7 @@ A banking system will be in use to deposit and store your currency. In game phys
 
 * Barrenwood
 
-### Details
-
-<details>
-
-<summary><strong>Regulatory</strong></summary>
+### Regulatory
 
 #### Central Bank Oversight
 
@@ -86,15 +82,9 @@ Each country will be responsible for transaction monitoring of fellow countries.
 
 Countries will regularly report financial data and activities to the central bank for supervision and analysis. This helps detect trends, identify risks, and ensure compliance with regulations.
 
+### Trading/Buying/Selling
 
-
-</details>
-
-<details>
-
-<summary>Trading/Buying/Selling</summary>
-
-### Accessing Currency
+#### Accessing Currency
 
 Currency can be stored in the Koflum National Bank or in physical currency as listed above. At any time, players can deposit or withdraw currency from their bank accounts.&#x20;
 
@@ -104,39 +94,13 @@ To make a deposit/withdraw, follow these commands:
 /shop
 ```
 
-</details>
+### Borrowing Money
 
-<details>
+### Earning Interest
 
-<summary>Borrowing Money</summary>
+### Dynamic Pricing (TBD)
 
-
-
-</details>
-
-<details>
-
-<summary>Earning Interest</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Dynamic Pricing (TBD)</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Investing (TBD)</summary>
-
-
-
-</details>
+### Investing (TBD)
 
 [^1]: Equivalent to **9** Gold Nugget
 
