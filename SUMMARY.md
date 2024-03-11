@@ -3,6 +3,7 @@
 * [🌐 Home](README.md)
   * [🔑 Accessing the Server](home/accessing-the-server.md)
   * [📚 History of Koflum](home/history-of-koflum.md)
+  * [👻 AFK Policy](home/afk-policy.md)
   * [📢 Use of Discord](home/use-of-discord.md)
 
 ## ℹ️ Details
