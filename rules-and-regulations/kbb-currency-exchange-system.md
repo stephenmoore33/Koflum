@@ -1,5 +1,7 @@
 # 💴 KBB Currency Exchange System
 
+### Currency Exchange Rates
+
 Below are the physical currency rates and values. These do not change, but the cost of goods and services may and will be a building block upon having a stable and failproof currency system.&#x20;
 
 <div>
@@ -54,9 +56,15 @@ Currency will be displayed as [<mark style="color:green;">$2,000,000 KBB</mark>]
 
 A banking system will be in use to deposit and store your currency. In game physical currency can be deposited or withdrawn. Advantages of storing currency in the bank will protect your assets from theft, allow for easier trade/exchange, allow for earning of interest, ability to take out loans, and buy/sell products. In addition, utilizing the banking system will allow for transparency between fellow counties and could quickly identify foul play.&#x20;
 
+### Participating Countries
+
+* Barrenwood
+
+### Details
+
 <details>
 
-<summary><strong>Regulatory Details</strong></summary>
+<summary><strong>Regulatory</strong></summary>
 
 #### Central Bank Oversight
 
@@ -78,13 +86,7 @@ Each country will be responsible for transaction monitoring of fellow countries.
 
 Countries will regularly report financial data and activities to the central bank for supervision and analysis. This helps detect trends, identify risks, and ensure compliance with regulations.
 
-</details>
 
-<details>
-
-<summary>Participating Countries</summary>
-
-* Barrenwood
 
 </details>
 
@@ -114,13 +116,21 @@ Countries will regularly report financial data and activities to the central ban
 
 <details>
 
+<summary>Dynamic Pricing (TBD)</summary>
+
+
+
+</details>
+
+<details>
+
 <summary>Investing (TBD)</summary>
 
 
 
 </details>
 
-## Accessing Currency
+### Accessing Currency
 
 To access the currency, follow these commands:&#x20;
 
