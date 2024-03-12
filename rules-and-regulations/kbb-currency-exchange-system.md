@@ -111,7 +111,7 @@ Countries will regularly report financial data and activities to the central ban
 Currency can be stored in the Koflum National Bank or in physical currency as listed above. At any time, players can deposit or withdraw currency from their bank accounts.&#x20;
 
 {% hint style="success" %}
-To make a deposit/withdraw, see [**EconomyShopGUI**](../plugins/economyshopgui.md) Plugin page.
+To make a deposit/withdraw, see [**EconomyShopGUI**](../plugins/economyshopgui.md#accessing-the-shop-or-bank) Plugin page.
 {% endhint %}
 
 ***
