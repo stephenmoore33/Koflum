@@ -1,2 +1,0 @@
-# 🏴 Agreements and Partnerships Policy
-

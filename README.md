@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🗺️ Home
+# 🌐 Home
 
 ## Welcome to the Koflum Wiki
 

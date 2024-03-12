@@ -1,2 +1,0 @@
-# 💣 Declaration of Policy
-
