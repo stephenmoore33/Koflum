@@ -1,2 +1,2 @@
-# 👻 AFK Policy
+# ⌨️ AFK Policy
 

@@ -3,7 +3,7 @@
 * [🌐 Home](README.md)
   * [🔑 Accessing the Server](home/accessing-the-server.md)
   * [🎮 Game Commands](home/game-commands.md)
-  * [👻 AFK Policy](home/afk-policy.md)
+  * [⌨️ AFK Policy](home/afk-policy.md)
   * [📢 Use of Discord](home/use-of-discord.md)
   * [📚 History of Koflum](home/history-of-koflum.md)
 * [📝 Joining KDB Board](joining-kdb-board.md)
