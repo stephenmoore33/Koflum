@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 💴 KBB Currency Exchange System
+# 💲 KBB Currency Exchange System
 
 ### Currency Exchange Rates
 
