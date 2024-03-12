@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 💴 KBB Currency Exchange System
 
 ### Currency Exchange Rates
@@ -6,39 +20,39 @@ Below are the physical currency rates and values. These do not change, but the c
 
 <div>
 
-<figure><img src="../../.gitbook/assets/gold_nugget.png" alt=""><figcaption><p>Gold Nugget</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gold_nugget.png" alt=""><figcaption><p>Gold Nugget</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/lapis_lazuli.png" alt=""><figcaption><p>Lapis Lazuli</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lapis_lazuli.png" alt=""><figcaption><p>Lapis Lazuli</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/gold_ingot.png" alt=""><figcaption><p>Gold Ingot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gold_ingot.png" alt=""><figcaption><p>Gold Ingot</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/emerald.png" alt=""><figcaption><p>Emerald</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/emerald.png" alt=""><figcaption><p>Emerald</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/diamond.png" alt=""><figcaption><p>Diamond</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/diamond.png" alt=""><figcaption><p>Diamond</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/lapis_block.png" alt=""><figcaption><p>Lapis Block</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/lapis_block.png" alt=""><figcaption><p>Lapis Block</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/gold_block.png" alt=""><figcaption><p>Gold Block</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gold_block.png" alt=""><figcaption><p>Gold Block</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/emerald_block.png" alt=""><figcaption><p>Emerald Block</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/emerald_block.png" alt=""><figcaption><p>Emerald Block</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/diamond_block.png" alt=""><figcaption><p>Diamond Block</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/diamond_block.png" alt=""><figcaption><p>Diamond Block</p></figcaption></figure>
 
 </div>
 
@@ -56,13 +70,19 @@ Currency will be displayed as [<mark style="color:green;">$2,000,000 KBB</mark>]
 Due to pocket size restrictions, the maximum currency that can be stored in your pocket is [**$2,073,600 KBB**](#user-content-fn-7)[^7].
 {% endhint %}
 
+***
+
 ### Banking System
 
 A banking system will be in use to deposit and store your currency. In game physical currency can be deposited or withdrawn. Advantages of storing currency in the bank will protect your assets from theft, allow for easier trade/exchange, allow for earning of interest, ability to take out loans, and buy/sell products. In addition, utilizing the banking system will allow for transparency between fellow counties and could quickly identify foul play.&#x20;
 
+***
+
 ### Participating Countries
 
 * Barrenwood
+
+***
 
 ### Regulatory
 
@@ -86,9 +106,11 @@ Each country will be responsible for transaction monitoring of fellow countries.
 
 Countries will regularly report financial data and activities to the central bank for supervision and analysis. This helps detect trends, identify risks, and ensure compliance with regulations.
 
-### Trading/Buying/Selling
+#### Trading/Buying/Selling
 
-#### Accessing Currency
+***
+
+### Accessing Currency
 
 Currency can be stored in the Koflum National Bank or in physical currency as listed above. At any time, players can deposit or withdraw currency from their bank accounts.&#x20;
 
@@ -98,11 +120,19 @@ To make a deposit/withdraw, follow these commands:
 /shop
 ```
 
+***
+
 ### Borrowing Money
+
+***
 
 ### Earning Interest
 
+***
+
 ### Dynamic Pricing (TBD)
+
+***
 
 ### Investing (TBD)
 
