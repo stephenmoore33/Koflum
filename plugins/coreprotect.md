@@ -13,7 +13,7 @@ description: >-
 
 ### View Block Audit
 
-1. run _`/cp inspect`_
+1. run `/cp`_`inspect`_
 2. left click on desired block
 3. see audit
 4. run _`/cp inspect`_ to disable inspection
