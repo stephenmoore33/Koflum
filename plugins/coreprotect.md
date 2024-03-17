@@ -7,9 +7,11 @@ description: >-
 
 # 🧩 CoreProtect
 
-[Plugin Page](https://www.spigotmc.org/resources/coreprotect.8631/)
+:book: [**Wiki**](https://docs.coreprotect.net/)
 
-[Documentation](https://docs.coreprotect.net/)
+:electric\_plug: [**Plugin Page**](https://www.spigotmc.org/resources/coreprotect.8631/)
+
+:star2: [**GitHub**](https://github.com/PlayPro/CoreProtect/)
 
 ### View Block Audit
 

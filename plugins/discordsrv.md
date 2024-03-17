@@ -1,3 +1,9 @@
+---
+description: >-
+  Allows server updates to be sent in Discord. Additionally, users can chat
+  through the game to Discord.
+---
+
 # 💬 DiscordSRV
 
 ### URLs

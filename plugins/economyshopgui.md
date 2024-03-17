@@ -7,6 +7,10 @@ description: >-
 
 # 🛍️ EconomyShopGUI
 
+:book: [**Wiki**](https://wiki.gpplugins.com/economyshopgui)
+
+:electric\_plug: [**Plugin Page**](https://www.spigotmc.org/resources/economyshopgui-premium.104414/)
+
 ### Accessing the Shop or Bank
 
 Can be used for Buying or Selling items, or Depositing or Withdrawing [currency](../rules-and-regulations/kbb-currency-exchange-system.md).
