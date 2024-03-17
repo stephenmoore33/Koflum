@@ -102,6 +102,8 @@ All countries wishing to utilize the KBB Central Banking System will be required
 
 #### Anti-Money Laundering Regulations
 
+**DEFINITION**: _Money Laundering is to be defined as items or currency that is generated using unethical practices (Creative Chest)_
+
 Money laundering will be strictly prohibited and any convictions may result to serious disciplinary action to be determined upon conviction of infractions.&#x20;
 
 #### Centralized Transaction Monitoring
