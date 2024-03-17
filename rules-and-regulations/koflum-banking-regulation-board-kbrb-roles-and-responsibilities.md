@@ -2,7 +2,7 @@
 
 ### I. Purpose
 
-The Koflum Banking Regulation Board (KBRB) is an independent regulatory body responsible for overseeing the Centralized Banking System (CBS) in Koflum State. The KBRB is tasked with ensuring transparency, accountability, and stability in the nation's banking system through impartial decision-making and the processing of electoral voting related to banking system regulations.&#x20;
+The Koflum Banking Regulation Board (KBRB) is an independent regulatory body responsible for overseeing the [Centralized Banking System (CBS) (H.R. 3241)](h.r.-3241.1-centralized-banking-system.md) in Koflum State. The KBRB is tasked with ensuring transparency, accountability, and stability in the nation's banking system through impartial decision-making and the processing of electoral voting related to banking system regulations.&#x20;
 
 ### II. Composition&#x20;
 
