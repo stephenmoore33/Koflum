@@ -72,6 +72,10 @@ Due to pocket size restrictions, the maximum currency that can be stored in your
 
 A banking system will be in use to deposit and store your currency. In game physical currency can be deposited or withdrawn. Advantages of storing currency in the bank will protect your assets from theft, allow for easier trade/exchange, allow for earning of interest, ability to take out loans, and buy/sell products. In addition, utilizing the banking system will allow for transparency between fellow counties and could quickly identify foul play.&#x20;
 
+{% hint style="danger" %}
+The Centralized Banking System (CBS) is backed and ruled by the [Koflum Banking Regulation Board (KBRB)](koflum-banking-regulation-board-kbrb-roles-and-responsibilities.md).
+{% endhint %}
+
 ***
 
 ### Participating Countries
