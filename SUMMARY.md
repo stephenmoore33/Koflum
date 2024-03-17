@@ -30,4 +30,5 @@
 
 ## 👥 Countries and Members
 
-* [Barrenwood](countries-and-members/barrenwood.md)
+* [🌏 Barrenwood](countries-and-members/barrenwood.md)
+* [🌏 Koflum State](countries-and-members/koflum-state.md)
