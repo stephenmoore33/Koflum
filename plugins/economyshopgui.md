@@ -13,7 +13,7 @@ description: >-
 
 ### Accessing the Shop or Bank
 
-Can be used for Buying or Selling items, or Depositing or Withdrawing [currency](../rules-and-regulations/kbb-currency-exchange-system.md).
+Can be used for Buying or Selling items, or Depositing or Withdrawing [currency](../rules-and-regulations/h.r.-3241.1-centralized-banking-system.md).
 
 * Enter command `/shop` in console
 *   Click your desired product category. Banking will be in the center.&#x20;

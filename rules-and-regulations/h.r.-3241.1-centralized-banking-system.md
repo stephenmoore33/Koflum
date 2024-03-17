@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 💲 KBB Currency Exchange System
+# 💲 H.R. 3241.1 - Centralized Banking System
 
 ### Currency Exchange Rates
 
@@ -76,7 +76,9 @@ A banking system will be in use to deposit and store your currency. In game phys
 
 ### Participating Countries
 
+* Koflum State
 * Barrenwood
+* Quarkitch Estates
 
 ***
 
@@ -84,11 +86,15 @@ A banking system will be in use to deposit and store your currency. In game phys
 
 #### Central Bank Oversight
 
-Barrenwood will be a central authority responsible for overseeing the entire currency system. Additionally, all countries will have full access to currency transaction records and can report any suspected foul play of a country. Complaints will be taken seriously and will result in an unbiased investigation conducted by the Koflum Data Bureau and potential members of the jury to determine the party at fault. Conviction outcomes can be levied by currency/product/land confiscation or fines determined at ruling.&#x20;
+_AMMEND_. It is mutually understood that the Koflum Banking Regulation Board (KBRB) will maintain unwavering oversight over all aspects of the central banking system. Any further changes to the banking system must be approved by and overseen by the KBRB to ensure compliance with our nation's financial regulations and standards.&#x20;
+
+Barrenwood will operate the central banking system under the guidance of the KBRB. Barrenwood's role would be the execution of the daily operations of the system, while all decision-making, rule-setting, and policy-establishment would be subject to the comprehensive oversight of the Koflum Banking Regulation Board.
+
+~~Barrenwood will be a central authority responsible for overseeing the entire currency system.~~ Additionally, all countries will have full access to currency transaction records and can report any suspected foul play of a country. Complaints will be taken seriously and will result in an unbiased investigation conducted by the ~~Koflum Data Bureau~~ KBRB and potential members of the jury to determine the party at fault. Conviction outcomes can be levied by currency/product/land confiscation or fines determined at ruling.&#x20;
 
 #### Licensing Requirements
 
-All countries wishing to utilize the KBB Currency Exchange System will be required to obtain a license for trade, in addition to electing a public official for representation of said countries transactions, record keeping, and production.
+All countries wishing to utilize the KBB Central Banking System will be required to obtain a license for trade, in addition to electing a public official for representation of said countries transactions, record keeping, and production.
 
 #### Anti-Money Laundering Regulations
 
