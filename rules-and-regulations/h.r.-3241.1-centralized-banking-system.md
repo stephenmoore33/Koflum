@@ -86,7 +86,7 @@ A banking system will be in use to deposit and store your currency. In game phys
 
 #### Central Bank Oversight
 
-_AMMEND_. It is mutually understood that the Koflum Banking Regulation Board (KBRB) will maintain unwavering oversight over all aspects of the central banking system. Any further changes to the banking system must be approved by and overseen by the KBRB to ensure compliance with our nation's financial regulations and standards.&#x20;
+_AMMEND_. It is mutually understood that the [Koflum Banking Regulation Board (KBRB)](koflum-banking-regulation-board-kbrb-roles-and-responsibilities.md) will maintain unwavering oversight over all aspects of the central banking system. Any further changes to the banking system must be approved by and overseen by the KBRB to ensure compliance with our nation's financial regulations and standards.&#x20;
 
 Barrenwood will operate the central banking system under the guidance of the KBRB. Barrenwood's role would be the execution of the daily operations of the system, while all decision-making, rule-setting, and policy-establishment would be subject to the comprehensive oversight of the Koflum Banking Regulation Board.
 
