@@ -9,7 +9,7 @@
 * [📝 Joining KDB Board](joining-kdb-board.md)
 * [📜 Rules and Regulations](rules-and-regulations/README.md)
   * [🏴 Agreements and Partnerships Policy](rules-and-regulations/agreements-and-partnerships-policy.md)
-  * [💣 Declaration of War Policy](rules-and-regulations/declaration-of-war-policy.md)
+  * [💣 H.R. 3745.1 - Declaration of War Policy](rules-and-regulations/h.r.-3745.1-declaration-of-war-policy.md)
   * [🎭 Enacting Rule Change Policy](rules-and-regulations/enacting-rule-change-policy.md)
   * [🤝 Free Trade Policy](rules-and-regulations/free-trade-policy.md)
   * [💲 H.R. 3241.1 - Centralized Banking System](rules-and-regulations/h.r.-3241.1-centralized-banking-system.md)
