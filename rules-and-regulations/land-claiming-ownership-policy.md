@@ -1,2 +1,0 @@
-# 🏝️ Land Claiming Policy
-

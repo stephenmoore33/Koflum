@@ -13,7 +13,7 @@
   * [🎭 Enacting Rule Change Policy](rules-and-regulations/enacting-rule-change-policy.md)
   * [🤝 Free Trade Policy](rules-and-regulations/free-trade-policy.md)
   * [💲 H.R. 3241.1 - Centralized Banking System](rules-and-regulations/h.r.-3241.1-centralized-banking-system.md)
-  * [🏝️ Land Claiming/Ownership Policy](rules-and-regulations/land-claiming-ownership-policy.md)
+  * [🏝️ H.R. 3115.1 - Unutilized Land Ownership and Development Act](rules-and-regulations/h.r.-3115.1-unutilized-land-ownership-and-development-act.md)
   * [👮 Player Misconduct Policy](rules-and-regulations/player-misconduct-policy.md)
   * [🏛️ Right to Civil Proceedings Policy](rules-and-regulations/right-to-civil-proceedings-policy.md)
   * [✔️ Right to Vote Policy](rules-and-regulations/right-to-vote-policy.md)
