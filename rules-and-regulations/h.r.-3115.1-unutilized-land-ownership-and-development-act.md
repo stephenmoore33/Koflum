@@ -1,5 +1,9 @@
 # 🏝️ H.R. 3115.1 - Unutilized Land Ownership and Development Act
 
+{% hint style="danger" %}
+This legislation is currently undergoing revisions and will only take effect upon being voted into law by the majority.
+{% endhint %}
+
 ### **Article 1: Ownership and Acquisition of Unutilized Land**
 
 1.1 Each sovereign nation within the jurisdiction of the Koflum State shall retain the inherent right to claim ownership of unutilized land depicted on the official map.
